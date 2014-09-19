@@ -1,8 +1,11 @@
 div{
-    border-style: solid;
-    border-width: 5px;
+    border-style: ridge;
+    border-width: 10px;
     padding: 30px;
     border-color: green;
+}
+h1{
+    color: white;
 }
 
 .container{
@@ -15,4 +18,18 @@ div{
 
 .list-group-item{
     border: 0;
+}
+
+#projects{
+/*    border-color: deeppink*/
+    background-image: url(http://b68389.medialib.glogster.com/media/8ea5a3ea68d4305ad02c946510f0674e579eeacbcd5665e33632c33205ec0137/moving-backgrounds-1.gif);
+    background-size: cover;
+}
+img {
+    width: 560px;
+    height: auto;
+}
+.uppercase {
+    text-transform: uppercase;
+    font-size: 50px;
 }
