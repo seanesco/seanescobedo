@@ -7,19 +7,15 @@ div{
 h1{
     color: white;
 }
-
 .container{
     border-color: blue;
 }
-
 .row{
     border-color: red;
 }
-
 .list-group-item{
     border: 0;
 }
-
 #projects{
 /*    border-color: deeppink*/
     background-image: url(http://b68389.medialib.glogster.com/media/8ea5a3ea68d4305ad02c946510f0674e579eeacbcd5665e33632c33205ec0137/moving-backgrounds-1.gif);
@@ -32,4 +28,12 @@ img {
 .uppercase {
     text-transform: uppercase;
     font-size: 50px;
+}
+#tech{
+    background-image: url(http://fc08.deviantart.net/fs71/f/2014/025/f/a/simple_animated_flashing_background_gif_by_jssanda-d58kspb.gif);
+    background-size: cover;
+}
+#index{
+    background-image: url(http://i436.photobucket.com/albums/qq86/DaT_69eR/DEZ%20PiiX/scattered-flashing-dots-1266.gif);
+    background-size: cover;
 }
