@@ -7,6 +7,9 @@ div{
 h1{
     color: white;
 }
+h2{
+    color: lime;
+}
 .container{
     border-color: deeppink;
 }
@@ -39,4 +42,32 @@ img {
 }
 p{
     color: white;
+}
+#pic{
+    height: 260px;
+    width: auto;
+}
+#hh{
+    color: orangered;
+}
+#blueh{
+    color: #a6e1ec;
+}
+#yasss{
+    color: yellow;
+}
+#cs{
+    color: skyblue;
+}
+#boot{
+    color: magenta;
+}
+#pcss{
+    color: skyblue;
+}
+#phtml{
+    color: orangered;
+}
+#pboot{
+    color: magenta;
 }
