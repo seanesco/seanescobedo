@@ -4,18 +4,23 @@ div{
     padding: 30px;
     border-color: whitesmoke;
 }
+/*my boarder color*/
 h1{
     color: white;
 }
+/*color i had for all my h1s*/
 h2{
     color: lime;
 }
+/*color i had for all my h2s*/
 .container{
     border-color: deeppink;
 }
+/*other boarder color for the container*/
 .row{
     border-color: red;
 }
+/* boarder color for all rows on all pages*/
 .list-group-item{
     border: 0;
 }
@@ -24,29 +29,37 @@ h2{
     background-image: url(http://b68389.medialib.glogster.com/media/8ea5a3ea68d4305ad02c946510f0674e579eeacbcd5665e33632c33205ec0137/moving-backgrounds-1.gif);
     background-size: cover;
 }
+/*Alex did that last comment lol*/
+/*made a gif my background for all my pages*/
 img {
     width: 400px;
     height: auto;
 }
+/*made an image this size*/
 .uppercase {
     text-transform: uppercase;
     font-size: 50px;
 }
+/*forgot why i did this tbh*/
 #tech{
     background-image: url(http://fc08.deviantart.net/fs71/f/2014/025/f/a/simple_animated_flashing_background_gif_by_jssanda-d58kspb.gif);
     background-size: cover;
 }
+/*technology background*/
 #index{
     background-image: url(http://i436.photobucket.com/albums/qq86/DaT_69eR/DEZ%20PiiX/scattered-flashing-dots-1266.gif);
     background-size: cover;
 }
+/*index background*/
 p{
     color: white;
 }
+/*made every p white at first*/
 #pic{
     height: 260px;
     width: auto;
 }
+/*started to use a lot of ids from here on*/
 #hh{
     color: orangered;
 }
@@ -70,4 +83,71 @@ p{
 }
 #pboot{
     color: magenta;
+}
+#h2i{
+    color:  #ff0;
+}
+#pi{
+    color: springgreen;
+}
+#h2ii{
+    color: hotpink;
+}
+#iblue{
+    color: #66afe9;
+}
+#p2i{
+    color: hotpink;
+}
+#insta{
+    color: springgreen;
+}
+/*see what i mean a lot*/
+#diff{
+    border-color: greenyellow;
+}
+#bk{
+    border-color: hotpink;
+}
+#lk{
+    border-color: #66afe9;
+}
+#hu7{
+    color: aquamarine;
+}
+#hg6{
+    color: chartreuse;
+}
+#ok9{
+    color: darkorange;
+}
+#sd4{
+    border-color: yellow;
+}
+#mby5{
+    border-color: deepskyblue;
+}
+#hjk8{
+    color: red;
+}
+#lol8{
+    color: violet;
+}
+#gu7{
+    color: deepskyblue;
+}
+#er56{
+    border-color: blue;
+}
+#et9o{
+    border-color: blue;
+}
+#vu50{
+    border-color: violet;
+}
+#was{
+    border-color: violet;
+}
+#asd4{
+    color: blue
 }
