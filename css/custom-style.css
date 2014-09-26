@@ -151,3 +151,7 @@ p{
 #asd4{
     color: blue
 }
+
+.noBorder{
+    border-style: none;
+}
